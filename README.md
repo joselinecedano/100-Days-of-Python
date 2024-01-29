@@ -36,6 +36,7 @@ I'll be using a variety of resources to guide my learning during this challenge.
 | --- | ---------- | ------------------------------------------------------ |
 | 1   | 2024-01-27 | Completed Day 1 section of course taught by Dr. Angela Yu. Learned about print and input functions and working with variables to manage data. Built first project: Band Name Generator 🤘🏻 |
 | 2   | 2024-01-28 | Learned about data types and string manipulation. Built second project: Tip Calculator 💰 |
+| 3   | 2024-01-29 | Learned about control flow and logical operators. Built third project:  Treasure Island 🏴‍☠️ |
 
 ## Conclusion
 
