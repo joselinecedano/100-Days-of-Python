@@ -23,3 +23,13 @@ total = round(bill_per_guest, 2)
 #Final Message 
 print(f"Each person should pay: ${total:.2f}")
 #The :.2f is to round to 2 decimal places since we were getting a formatting error before (33.6 instead of 33.60))
+
+#Returns the following:
+# Welcome to the Tip Calculator!
+# What was the total bill?
+# $150.00
+# What percentage tip would you like to give? 10, 12, or 15?
+# 12
+# How many people to split the bill?
+# 5
+# Each person should pay: $33.60
