@@ -1,3 +1,7 @@
+'''
+This is tip calculator. It will calculate the total bill per person based on the bill, tip percentage, and number of guests.
+'''
+
 #If the bill was $150.00, split between 5 people, with 12% tip. 
 
 #Each person should pay (150.00 / 5) * 1.12 = 33.6
