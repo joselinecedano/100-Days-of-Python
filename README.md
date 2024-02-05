@@ -40,6 +40,8 @@ I'll be using a variety of resources to guide my learning during this challenge.
 | 4   | 2024-01-30 | Learned about randomization and lists. Built fourth project: Rock Paper Scissors 🪨📄✂️ |
 | 5   | 2024-01-31 | Learned about loops. Built fifth project: Password Generator 🔐|
 | 6   | 2024-02-01 | Learned about functions. Worked on Reeborg's World Maze Challenge 🤖|
+| 7   | 2024-02-05 | Used what I've learned to build sixth project: Hangman 🚶🏻‍♂️|
+
 ## Conclusion
 
 I'm excited to embark on this journey of learning and improvement with Python. Follow along with my progress, and feel free to reach out if you have any questions or suggestions!
