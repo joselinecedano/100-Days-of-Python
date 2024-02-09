@@ -41,6 +41,7 @@ I'll be using a variety of resources to guide my learning during this challenge.
 | 5   | 2024-01-31 | Learned about loops. Built fifth project: Password Generator 🔐|
 | 6   | 2024-02-01 | Learned about functions. Worked on Reeborg's World Maze Challenge 🤖|
 | 7   | 2024-02-05 | Used what I've learned to build sixth project: Hangman 🚶🏻‍♂️|
+| 8   | 2024-02-09 | Learned about function parameters. Built project seven: Caesar Cypher 🏛️|
 
 ## Conclusion
 
